@@ -1,0 +1,5 @@
+{
+  "name": "TutorMind AI",
+  "description": "An intelligent assistant for tutors to generate lesson plans, quizzes, and visual aids using Gemini models.",
+  "requestFramePermissions": []
+}
